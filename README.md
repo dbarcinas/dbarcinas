@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Dan. Currently interested and learning all things low level ⚙️.
 
 <!--
 **dbarcinas/dbarcinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
